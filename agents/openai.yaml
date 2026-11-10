@@ -1,0 +1,4 @@
+interface:
+  display_name: "豌豆四视角审稿"
+  short_description: "用四个读者视角审稿，给出引用原文的问题清单和可直接替换的句子"
+  default_prompt: "使用 $wandou-shengao，用挑剔的用户、课程设计大师、对产品了解不深的用户、对解决问题非常较劲的用户这四个视角，审一下我这段稿子，每条引用原文并给出可直接替换的句子。"
